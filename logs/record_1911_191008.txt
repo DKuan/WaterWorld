@@ -1,2 +1,0 @@
-save model time:1911_191112 step:295000, var:0.6376278646964412 collision_cnt 34
-save model time:1911_191120 step:320000, var:0.6065303564550752 collision_cnt 38
